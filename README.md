@@ -1,23 +1,27 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdurrehman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Android%20%7C%20UI%2FUX%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdurrehman%20Narmawala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Desktop%20%7C%20AI-Driven%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+%7C+Kotlin+%2B+Jetpack+Compose;UI%2FUX+Engineer+%7C+Figma;Software+Dev+Intern+%40+Starlink+IT;Building+things+that+matter." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Java+%7C+Python+%7C+Full-Stack+Engineer;AI-Driven+Development+%7C+Automation;Building+real+software+for+real+businesses." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views + Social Badges -->
+<!-- Badges -->
 <img src="https://komarev.com/ghpvc/?username=Abdurrehman510&label=Profile+Views&color=7c3aed&style=flat-square" alt="profile views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/abdurrehman510" target="_blank">
+<a href="https://linkedin.com/in/abdurrehman-narmawala" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:abdurrehman510@gmail.com">
+<a href="https://abdurrehman-narmawala.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:abdurrehmannarmawala510@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
@@ -31,13 +35,14 @@
 
 ```ts
 const abdurrehman = {
-  role:        "Software Developer Intern @ Starlink IT",
-  education:   "B.Tech CSE @ L.J. University (2024 → 2027)",
+  name:        "Abdurrehman Narmawala",
+  education:   "B.Tech CSE @ L.J. University (2023 → 2027)",
   location:    "Ahmedabad, Gujarat 🇮🇳",
-  stacks:      ["MERN", "Android (Kotlin + Jetpack Compose)", "UI/UX"],
-  currentlyBuilding: "Production-grade portfolio projects & enterprise apps",
-  interests:   ["Backend Security", "OWASP", "Clean Architecture", "Design Systems"],
-  funFact:     "I refactor college projects into enterprise-grade software for fun.",
+  portfolio:   "abdurrehman-narmawala.netlify.app",
+  stacks:      ["MERN Stack", "Java (Swing + Spring Boot)", "Python (Django + CustomTkinter)"],
+  strengths:   ["AI-Driven Development", "Full-Stack Engineering", "Data & Automation", "Product Focus"],
+  hackathons:  ["Odoo Hackathon 2025", "AI Workshop @ L.J. University 2025"],
+  funFact:     "I build production-grade desktop software for real local businesses.",
 };
 ```
 
@@ -47,30 +52,40 @@ const abdurrehman = {
 
 ### 🌐 Frontend & Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Backend & Databases
+### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 📱 Mobile
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### 🖥️ Desktop & Data
+![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -79,61 +94,59 @@ const abdurrehman = {
 <table>
   <tr>
     <td width="50%">
-      <h3>🪑 Royal Furniture — E-Commerce Platform</h3>
-      <p>Enterprise-grade furniture e-commerce app with full product management, cart, authentication, and order system. Built with MERN stack, clean architecture, and a polished UI/UX design system.</p>
+      <h3>🏥 HealthPlus — AI Telemedicine Platform</h3>
+      <p>Full-stack MERN telemedicine app with JWT + Google OAuth, role-based dashboards (Admin / Doctor / Patient), Socket.io real-time chat, appointment scheduling, and medical report management. Integrates <strong>Gemini API</strong> for AI-powered health summaries and a context-aware patient medical assistant.</p>
       <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
     <td width="50%">
-      <h3>🔧 Welder Management System</h3>
-      <p>Production-ready welder qualification management system with React + Supabase. Features real-time data, role-based access, and a clean dashboard for tracking certifications and job assignments.</p>
+      <h3>🏭 S.R. Agency — Business Management Software</h3>
+      <p>Modular Python desktop ERP for a wholesale/retail agency. Covers sales & purchase billing, auto-generated PDF invoices, real-time inventory tracking, business analytics with Pandas + Matplotlib, and automated <strong>Google Drive cloud backups</strong>.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>❄️ AC Service Management Software</h3>
+      <p>Standalone Java desktop app for an AC service business. Full CRUD client database, automated service due-date tracking, package management with remaining service counts, and renewal workflows — built with Java Swing + MySQL via JDBC.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JDBC-007396?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🛍️ Fashion Hub — E-Commerce Website</h3>
+      <p>Fully responsive clothing store with men/women/kids catalogs, dynamic search, persistent cart & client-side auth via LocalStorage, flash sale countdown timer, product modals, image slider, FAQ accordion, and toast notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3>🌐 AI Telemedicine Platform</h3>
-      <p>Full-stack AI-powered healthcare platform connecting patients and doctors. Features appointment booking, real-time consultation, symptom analysis, and a secure medical records system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MERN-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/AI--Powered-7c3aed?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📡 Network Protocol Simulator</h3>
-      <p>Enterprise-grade simulator for Stop-and-Wait, Go-Back-N, and Selective Repeat ARQ protocols. Includes a Tkinter GUI, real-time analytics, CSV export, and an interactive tutorial system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔎 Algorithm Visualizer</h3>
-      <p>Interactive Python-based tool for visualizing classic sorting and graph algorithms in real time. Designed for learning and educational demonstration with step-by-step animation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🕸️ Web Scraper — eKantipur</h3>
-      <p>Production-grade Python/Playwright scraper with bot-detection bypass, structured JSON output, and full documentation. Built as a technical assessment for a Web Scraping Internship at Audio Bee.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-      </p>
-    </td>
-  </tr>
 </table>
+
+---
+
+## 🏆 Hackathons & Events
+
+| Event | Organizer | Year | Role |
+|---|---|---|---|
+| 🤖 **Odoo Hackathon 2025** | Odoo Community Association | 2025 | Backend automation, AI integration, UI/UX contributions |
+| 🧠 **AI Workshop** | L.J. University | 2025 | Prompt engineering, AI-driven prototyping & automation |
 
 ---
 
@@ -153,7 +166,7 @@ const abdurrehman = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdurrehman510&theme=dracula&no-frame=true&margin-w=10&column=6" />
@@ -169,12 +182,13 @@ const abdurrehman = {
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Currently Focused On
 
-- 🔐 Deepening backend security knowledge — JWT hardening, OWASP Top 10
-- 📱 Building production Android apps with Clean Architecture + Material Design 3
-- 🎨 Designing component-driven UI systems in Figma
-- 🧠 Competitive programming & technical interview prep
+- 🤖 AI integration in full-stack apps — Gemini API, context-aware assistants
+- 🔐 Backend security — JWT hardening, Google OAuth, OWASP practices
+- 🌐 Advancing MERN stack with TypeScript & Next.js
+- 🖥️ Shipping enterprise-grade desktop tools for real businesses
+- 📱 Exploring Android development with Kotlin + Jetpack Compose
 
 ---
 
@@ -182,9 +196,12 @@ const abdurrehman = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrehman510)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrehman-narmawala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://abdurrehman-narmawala.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehmannarmawala510@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdurrehman510)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehman510@gmail.com)
+
+📍 Ahmedabad, India &nbsp;|&nbsp; 📞 +91 98253 49583
 
 </div>
 
@@ -194,6 +211,6 @@ const abdurrehman = {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-<sub>⚡ Built with passion by <strong>Abdurrehman</strong> · Always shipping, always learning.</sub>
+<sub>⚡ Built with passion by <strong>Abdurrehman Narmawala</strong> · Always shipping, always learning.</sub>
 
 </div>
