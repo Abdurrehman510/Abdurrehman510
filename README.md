@@ -1,39 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:0d1b2a,100:0a0a0f&height=220&section=header&text=Abdurrehman%20Narmawala&fontSize=54&fontColor=e2c8ff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%7C%20Android%20%7C%20MERN&descAlignY=58&descSize=17&animation=fadeIn&fontStyle=bold" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1117,60:161b22,100:0a0a0f&height=220&section=header&text=Abdurrehman%20Narmawala&fontSize=56&fontColor=e6edf3&fontAlignY=40&desc=Full-Stack%20%E2%80%A2%20AI-Integrated%20%E2%80%A2%20Enterprise%20Software%20Engineer&descAlignY=60&descSize=16&animation=fadeIn&fontAlignX=50" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=750&lines=🔷+MERN+Stack+%7C+Android+(Kotlin+%2B+Jetpack+Compose);🤖+AI-Driven+Applications+%7C+Groq+%7C+Gemini;🛠️+Building+SaaS+products+for+real+businesses;🎓+B.Tech+CSE+%40+L.J.+University+%7C+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN+Stack+%7C+Full-Stack+Engineer;Android+%7C+Kotlin+%7C+Jetpack+Compose;AI-Driven+Applications+%7C+Groq+%7C+Gemini;Desktop+ERP+%7C+Real+Business+Solutions;B.Tech+CSE+%40+L.J.+University+%E2%80%94+Class+of+2027" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Elite Badge Row -->
-<a href="https://linkedin.com/in/abdurrehman-narmawala">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/abdurrehman-narmawala" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://abdurrehman-narmawala.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" />
+&ensp;
+<a href="https://abdurrehman-narmawala.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </a>
-&nbsp;
+&ensp;
 <a href="mailto:abdurrehmannarmawala510@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/Abdurrehman510">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+&ensp;
+<a href="https://github.com/Abdurrehman510" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-238636?style=flat-square&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abdurrehman510&label=Profile+Views&color=7c3aed&style=for-the-badge&abbreviated=true" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge&logo=checkmarx&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" />
+&ensp;
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Available-2ea44f?style=flat-square" />
+&ensp;
+<img src="https://komarev.com/ghpvc/?username=Abdurrehman510&label=Profile+Views&color=238636&style=flat-square" />
 
 </div>
 
@@ -41,145 +36,116 @@
 
 ---
 
-## ◈ About Me
+## `$ whoami`
 
 ```typescript
-const abdurrehman: Developer = {
+const abdurrehman: Engineer = {
   name:        "Abdurrehman Narmawala",
-  education:   "B.Tech CSE @ L.J. University (2023 → 2027)",
-  location:    "Ahmedabad, Gujarat 🇮🇳",
+  education:   "B.Tech CSE @ L.J. University  |  2023 → 2027",
+  location:    "Ahmedabad, Gujarat, India 🇮🇳",
   portfolio:   "abdurrehman-narmawala.netlify.app",
 
-  currentFocus: [
-    "Elite Resume Optimizer — Flutter + Firebase + Groq AI (SaaS)",
-    "Android Development — Kotlin + Jetpack Compose",
-    "AI-Integrated Full-Stack Applications",
-  ],
-
   stacks: {
-    web:     ["React", "Node.js", "Express", "MongoDB", "Next.js"],
-    mobile:  ["Flutter", "Kotlin", "Jetpack Compose", "Firebase"],
-    ai:      ["Groq API", "Gemini API", "LangChain", "Playwright"],
-    backend: ["Django", "Spring Boot", "JWT", "OAuth2", "REST"],
-    design:  ["Figma", "Tailwind CSS", "Glassmorphism", "UI/UX"],
+    web:        ["React", "Node.js", "Express", "MongoDB", "TailwindCSS"],
+    mobile:     ["Android", "Kotlin", "Jetpack Compose", "Flutter"],
+    desktop:    ["Java Swing", "Python CustomTkinter"],
+    ai:         ["Groq", "Gemini API", "LLM Integration"],
+    backend:    ["REST APIs", "JWT", "Google OAuth", "Socket.IO"],
+    databases:  ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "Supabase"],
   },
 
-  hackathons: [
-    "🏆 AI for Bharat — Hack2skill × AWS (SchemeSnap AI)",
-    "⚙️  Odoo Hackathon 2025",
-    "🧠 AI Workshop @ L.J. University 2025",
-  ],
-
-  funFact: "I build production-grade SaaS for real businesses, not just demo projects.",
+  currentlyBuilding: "Elite Resume Optimizer — Flutter + Firebase + Groq AI SaaS",
+  strengths:         ["AI-Driven Development", "Full-Stack Engineering", "Product Focus"],
+  funFact:           "I ship production-grade ERP systems for real local businesses.",
 };
 ```
 
 ---
 
-## ◈ Tech Arsenal
+## ⚡ Tech Arsenal
 
 ### 🌐 Frontend & Web
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🤖 AI & Automation
-![Groq](https://img.shields.io/badge/Groq%20AI-F55036?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNHYtNGwtNC40IDIuNzZMMTAgOS44NWw0LTIuNXY0bDQuNC0yLjc2TDE0IDE0LjE1bC00IDIuNXoiLz48L3N2Zz4=&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### 📱 Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### 🔧 Tools & DevOps
+### 🖥️ Languages & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔧 DevTools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## ◈ Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 Elite Resume Optimizer <sup><em>In Progress</em></sup></h3>
-      <p>Production-grade SaaS mobile app targeting Indian job seekers. Features ATS resume scoring, AI-powered rewriting via <strong>Groq API</strong>, and smart job-match analysis. Built with Flutter + Firebase + Riverpod state management, following clean architecture with CI/CD pipeline.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Groq%20AI-F55036?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Riverpod-0175C2?style=flat-square&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🏥 HealthPlus — AI Telemedicine Platform</h3>
-      <p>Full-stack MERN telemedicine app with JWT + Google OAuth, role-based dashboards (Admin / Doctor / Patient), Socket.io real-time chat, appointment scheduling, and medical report management. Integrates <strong>Gemini API</strong> for AI-powered health summaries and a context-aware patient medical assistant.</p>
+      <p>Full-stack MERN telemedicine app with JWT + Google OAuth, role-based dashboards (Admin / Doctor / Patient), Socket.IO real-time chat, appointment scheduling, and medical report management. Integrates <strong>Gemini API</strong> for AI-powered health summaries and a context-aware patient medical assistant.</p>
       <p>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 SchemeSnap AI — AI for Bharat Hackathon</h3>
-      <p>AI-powered platform helping Indian citizens discover relevant government schemes. Built with React + Vite frontend, Django REST backend, Groq AI for scheme matching, Supabase as database, AWS infrastructure, and Razorpay payment integration. Competed in Hack2skill × AWS national hackathon.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏭 S.R. Agency — Business Management ERP</h3>
-      <p>Modular Python desktop ERP for a real wholesale/retail agency. Covers sales & purchase billing, auto-generated PDF invoices, real-time inventory tracking, business analytics with Pandas + Matplotlib, and automated <strong>Google Drive cloud backups</strong>. Currently used in production.</p>
+      <h3>🏭 S.R. Agency — Business ERP Software</h3>
+      <p>Modular Python desktop ERP for a wholesale/retail agency. Sales & purchase billing, auto-generated PDF invoices, real-time inventory tracking, business analytics with Pandas + Matplotlib, and automated <strong>Google Drive cloud backups</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>❄️ AC Service Management Software</h3>
-      <p>Standalone Java desktop app for a real AC service business. Full CRUD client database, automated service due-date tracking, package management with remaining service counts, and renewal workflows — built with Java Swing + MySQL via JDBC. Live production use.</p>
+      <p>Standalone Java desktop app for an AC service business. Full CRUD client database, automated service due-date tracking, package management with remaining service counts, and renewal workflows — built with <strong>Java Swing + MySQL via JDBC</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -188,12 +154,37 @@ const abdurrehman: Developer = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ Fashion Hub — E-Commerce Platform</h3>
-      <p>Fully responsive clothing store with men/women/kids catalogs, dynamic search, persistent cart & client-side auth via LocalStorage, flash sale countdown timer, product modals, image slider, FAQ accordion, and toast notifications — zero frameworks, pure vanilla excellence.</p>
+      <h3>🤖 SchemeSnap AI — Hackathon Project</h3>
+      <p>AI-powered platform built for <strong>AI for Bharat (Hack2skill × AWS)</strong> that helps citizens discover relevant government schemes. React + Vite frontend, Django REST backend, Groq LLM integration, Supabase DB, deployed on AWS with Razorpay payment gateway.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Groq-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ Fashion Hub — E-Commerce Website</h3>
+      <p>Fully responsive clothing store with men/women/kids catalogs, dynamic search, persistent cart & client-side auth via LocalStorage, flash sale countdown timer, product modals, image slider, FAQ accordion, and toast notifications.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Elite Resume Optimizer <sub><code>In Progress</code></sub></h3>
+      <p>Production-grade SaaS mobile app targeting Indian job seekers. ATS score analysis, AI-powered resume rewriting via <strong>Groq</strong>, section-by-section feedback, and JD matching — built with Flutter, Firebase Auth, and Firestore.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/Groq-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Status-MVP-orange?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -201,102 +192,81 @@ const abdurrehman: Developer = {
 
 ---
 
-## ◈ Hackathons & Achievements
+## 🏆 Hackathons & Events
 
-<div align="center">
-
-| 🏅 Event | 🏢 Organizer | 📅 Year | 🔧 My Contribution |
-|---|---|---|---|
-| **AI for Bharat Hackathon** | Hack2skill × AWS | 2025 | Full-stack AI platform (SchemeSnap AI) — React, Django, Groq, AWS, Razorpay |
-| **Odoo Hackathon 2025** | Odoo Community | 2025 | Backend automation, AI feature integration, UI/UX design |
-| **AI Workshop** | L.J. University | 2025 | Prompt engineering, AI-driven prototyping, live automation demos |
-
-</div>
+| Event | Organizer | Year | Role |
+|:---|:---|:---|:---|
+| 🤖 **AI for Bharat** | Hack2skill × AWS | 2025 | Full-stack AI app — SchemeSnap (React + Django + Groq + Supabase + AWS) |
+| ⚡ **Odoo Hackathon 2025** | Odoo Community Association | 2025 | Backend automation, AI integration, UI/UX |
+| 🧠 **AI Workshop** | L.J. University | 2025 | Prompt engineering, AI-driven prototyping |
 
 ---
 
-## ◈ GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Abdurrehman510&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdurrehman510&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=8" />
 &nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrehman510&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_radius=12" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrehman510&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&hide=html" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurrehman510&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&border_radius=12" />
+<img src="https://streak-stats.demolab.com/?user=Abdurrehman510&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
 ---
 
-## ◈ GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdurrehman510&theme=tokyonight&no-frame=true&margin-w=6&margin-h=6&column=7&no-bg=true" />
-</div>
-
-> ⚠️ **If trophies appear blank:** GitHub trophies require at least a few public repositories, stars, and commits to generate. Push your projects and star repositories — trophies populate automatically once thresholds are met.
-
----
-
-## ◈ Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrehman510&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=f59e0b&area=true&area_color=1a0533" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdurrehman510&theme=algolia&no-frame=true&margin-w=12&margin-h=12&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 </div>
 
 ---
 
-## ◈ Currently Shipping
+## 📈 Contribution Activity
 
-```
-▶  Elite Resume Optimizer      Flutter + Firebase + Groq AI    [MVP → Auth Flow]
-▶  Android Development         Kotlin + Jetpack Compose         [Learning]
-▶  MERN → TypeScript + Next.js Advancing full-stack stack       [Active]
-▶  Web Scraping @ Audio Bee    Playwright + Python              [Internship]
-▶  Backend Security            JWT hardening, OWASP practices   [Ongoing]
-```
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrehman510&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=58a6ff" />
+</div>
 
 ---
 
-## ◈ Connect With Me
+## 🎯 Currently Building
+
+| Focus Area | Status |
+|:---|:---|
+| 📱 Elite Resume Optimizer — Flutter + Firebase + Groq AI SaaS | 🔧 In Development |
+| 🤖 AI integration — Groq API, context-aware assistants | 🔬 Active |
+| 🔐 Backend security — JWT hardening, Google OAuth, OWASP | 📚 Ongoing |
+| 📱 Android with Kotlin + Jetpack Compose | 📚 Ongoing |
+| 🌐 MERN Stack — advancing to TypeScript + Next.js | 📚 Ongoing |
+
+---
+
+## 📬 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/abdurrehman-narmawala">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://abdurrehman-narmawala.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-7C3AED?style=for-the-badge&logo=netlify&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:abdurrehmannarmawala510@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrehman-narmawala)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://abdurrehman-narmawala.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehmannarmawala510@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdurrehman510)
 
-<br/><br/>
+<br/>
 
-📍 **Ahmedabad, India** &nbsp;|&nbsp; 📞 **+91 98253 49583** &nbsp;|&nbsp; 🎓 **B.Tech CSE @ L.J. University**
+📍 Ahmedabad, India &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +91 98253 49583
 
 </div>
 
 ---
 
-<!-- About profile view counter -->
-<!--
-  NOTE: komarev.com/ghpvc counts unique IPs. There is NO way to exclude your own visits
-  from third-party counters — this is a limitation of ALL public GitHub profile view
-  counters (komarev, hits.seeyoufarm, etc.). The only workaround is to use a self-hosted
-  solution with auth. For most developers, this counter is purely cosmetic/motivational.
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1a0533,100:0a0a0f&height=130&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1117,100:161b22&height=120&section=footer" />
 
-<sub>⚡ Built by <strong>Abdurrehman Narmawala</strong> · Shipping real products, solving real problems.</sub>
+<sub>⚡ Built with precision by <strong>Abdurrehman Narmawala</strong> &nbsp;·&nbsp; Always shipping. Always learning.</sub>
 
 </div>
