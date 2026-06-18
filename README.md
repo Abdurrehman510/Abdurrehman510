@@ -42,7 +42,7 @@ const abdurrehman = {
   stacks:      ["MERN Stack", "Java (Swing + Spring Boot)", "Python (Django + CustomTkinter)"],
   strengths:   ["AI-Driven Development", "Full-Stack Engineering", "Data & Automation", "Product Focus"],
   hackathons:  ["Odoo Hackathon 2025", "AI Workshop @ L.J. University 2025"],
-  funFact:     "I build production-grade desktop software for real local businesses.",
+  funFact:     "I build production-grade desktop software for real businesses.",
 };
 ```
 
