@@ -1,211 +1,141 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdurrehman%20Narmawala&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%7C%20Software%20Engineer%20%7C%20Digital%20Growth%20Consultant&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,100:1F1A0E&height=220&section=header&text=Abdurrehman%20Narmawala&fontSize=50&fontColor=F0C53A&fontAlignY=36&desc=Business%20Digital%20Growth%20Consultant%20%C2%B7%20Founder%20%26%20Lead%20Software%20Engineer&descAlignY=57&descSize=17&animation=fadeIn" alt="Abdurrehman Narmawala, Business Digital Growth Consultant" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+Integration+%7C+Automation+%7C+Business+Systems;Building+real+software+for+real+businesses;Open+to+freelance+and+collaboration." alt="Typing SVG" />
+<a href="https://www.abdurrehman.co.in/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F0C53A&center=true&vCenter=true&width=760&lines=I+build+systems+that+help+businesses+grow.;ERP+%C2%B7+CRM+%C2%B7+CMS+%C2%B7+Automation+%C2%B7+AI+Integration;Full-Stack+%C2%B7+Desktop+%C2%B7+Cloud+%C2%B7+AI+Engineering;Business+outcome+first%2C+technology+second." alt="Typing animation" />
 </a>
+
+<br/><br/>
+
+<a href="https://www.abdurrehman.co.in/"><img src="https://img.shields.io/badge/Website-abdurrehman.co.in-F0C53A?style=for-the-badge&logo=googlechrome&logoColor=F0C53A&labelColor=0B0B0F" alt="Website" /></a>
+<a href="https://linkedin.com/in/abdurrehman-narmawala"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0F" alt="LinkedIn" /></a>
+<a href="mailto:abdurrehmannarmawala510@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0B0F" alt="Email" /></a>
+<a href="https://wa.me/919825349583"><img src="https://img.shields.io/badge/WhatsApp-%2B91%2098253%2049583-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0B0B0F" alt="WhatsApp" /></a>
 
 <br/>
 
-<a href="https://www.abdurrehman.co.in/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-abdurrehman.co.in-7c3aed?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/abdurrehman-narmawala" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:abdurrehmannarmawala510@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Abdurrehman510&label=Profile%20Views&color=F0C53A&style=for-the-badge&abbreviated=true" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Projects%20%26%20Roles-22C55E?style=for-the-badge&labelColor=0B0B0F" alt="Open to projects and roles" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
+
+I help small and mid-sized businesses find where revenue, time or data is leaking, then design and ship the system that fixes it. That ranges from lead-generating websites and custom ERP / CRM / CMS platforms to AI-powered automation, BI dashboards and cloud integrations, for clients across India, the Middle East and the US.
 
 ```ts
 const abdurrehman = {
-  name:        "Abdurrehman Narmawala",
-  role:        "Founder & Lead Software Engineer, Digital Growth Consultant",
-  education:   "B.E. Computer Science @ L.J. University (graduating 2027)",
-  experience:  ["AI Engineer Intern @ Nexra Security (2026 → present)",
-                "Software Engineering Intern @ Starlink IT Solutions, Saudi Arabia (2025 → 2026)"],
-  location:    "Ahmedabad, Gujarat, India 🇮🇳",
-  portfolio:   "abdurrehman.co.in",
-  stacks:      ["MERN Stack", "Java (Swing + Spring Boot)", "Python (Django + CustomTkinter)"],
-  focus:       ["AI Integration", "Full-Stack Engineering", "Business Automation", "Data & Analytics"],
-  mission:     "Helping businesses grow through better digital systems.",
+  role:      ["Business Digital Growth Consultant", "Founder & Lead Software Engineer", "AI Engineer Intern @ Nexra Security"],
+  based:     "Ahmedabad, India · working remotely worldwide",
+  education: "B.E. Computer Science @ L.J. University (Class of 2027)",
+  solves:    ["Lead generation & conversion", "Manual operations", "Scattered business data", "Scaling bottlenecks"],
+  builds:    ["Websites & web apps", "ERP / CRM / CMS", "Business automation", "AI-integrated products", "BI dashboards", "Cloud & API integrations"],
+  principle: "Business outcome first, technology second.",
 };
 ```
 
 ---
 
-## 🧭 What I Do
+## Experience
 
-- 🌐 **Websites & Web Apps** for lead generation, conversion and brand presence
-- 🧩 **Business Software** including custom CMS, CRM, ERP and admin panels
-- 🤖 **AI & Automation** for workflows, assistants and data processing
-- 📊 **Dashboards & Analytics** for better business decisions
-- 🔗 **System Integrations** across APIs, cloud storage and third-party tools
-
-I start with the business problem, then recommend the simplest solution that fits.
+| Role | Organization | Period |
+|:--|:--|:--|
+| **Founder & Lead Software Engineer** | Independent consulting practice · Remote | Jun 2026 – Present |
+| **AI Engineer Intern** | Nexra Security Pvt Ltd · Ahmedabad (Remote) | May 2026 – Present |
+| **Software Engineering Intern** | Starlink IT Solutions · Jubail, Saudi Arabia (Remote) | Dec 2025 – May 2026 |
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Work
 
-### 🌐 Frontend & Web
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Project | Domain | What it delivers | Link |
+|:--|:--|:--|:--|
+| **KoombaDrive** | Cloud · Enterprise | Windows cloud desktop drive that unifies OneDrive, Google Drive and Amazon S3 in one interface. Paid engagement for a US client. | Private |
+| **S.R. Agency ERP** | Wholesale | Desktop ERP with billing, PDF invoicing, inventory, BI dashboards and automated cloud backups. **~70% less manual data entry.** | Private |
+| **Katrawala Diagnostic Centre** | Healthcare | Production website with client-managed content, admin CMS, OTP-based 2FA and local-search structured data. | [Live ↗](https://www.katrawaladiagnostics.com/) |
+| **FreshFlow Dynamics** | Inventory · Retail | Inventory optimization system on Spring Boot + React with DDD / Clean Architecture. **~60% reported reduction in waste.** | — |
+| **HealthPlus** | Telemedicine | Doctor, patient and admin portals with scheduling, real-time chat and Gemini-powered health summaries. | — |
+| **GearSync** | Automotive | Service booking, scheduling and dispatch platform for automotive workshops. | [Demo ↗](https://gear-sync-xi.vercel.app) |
+| **AR International** | Logistics | Freight-forwarding platform with dedicated service pages and a structured B2B quotation funnel. | [Demo ↗](https://ar-international-eta.vercel.app) |
+| **Elegant Furniture Hub** | E-commerce | Online ordering, automated invoices, order tracking, SEO and multi-currency support. | [Demo ↗](https://elegant-furniture-hub.vercel.app) |
+| **Atelier Arithmetic** | EdTech · Open Source | Adaptive math-practice desktop app for ages 8–17. Java 17, Swing/Java2D, SQLite, AES-128. MIT licensed. | [Repo ↗](https://github.com/Abdurrehman510/Atelier-Arithmetic) |
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 AI, Data & Desktop
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<sub>Full project details and case studies: <a href="https://www.abdurrehman.co.in/">abdurrehman.co.in</a></sub>
 
 ---
 
-## 🚀 Selected Work
+## Tech Stack
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🏥 Katrawala Diagnostic Centre</h3>
-      <p>Premium website and admin panel for a diagnostic lab, with client-managed content, OTP 2FA and optimized media.</p>
-      <p><a href="https://www.katrawaladiagnostics.com/">Live site →</a></p>
-    </td>
-    <td width="50%">
-      <h3>☁️ KoombaDrive</h3>
-      <p>Enterprise-style Windows cloud desktop app integrating OneDrive, Google Drive and S3. Delivered as paid work for a US client.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🏭 S.R. Agency ERP</h3>
-      <p>Desktop business system for a wholesale agency: billing, inventory, PDF invoices, BI dashboards and automated backups. Reported 70% reduction in manual data entry.</p>
-    </td>
-    <td width="50%">
-      <h3>🚚 AR International</h3>
-      <p>Freight-forwarding website with service pages and a structured B2B quotation funnel.</p>
-      <p><a href="https://ar-international-eta.vercel.app">Live site →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🩺 HealthPlus</h3>
-      <p>Telemedicine platform with doctor, patient and admin portals, scheduling, real-time chat and AI-assisted workflows.</p>
-    </td>
-    <td width="50%">
-      <h3>🚗 GearSync</h3>
-      <p>Automotive service management platform for bookings, scheduling, dispatch and workshop operations.</p>
-      <p><a href="https://gear-sync-xi.vercel.app">Live site →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🛋️ Elegant Furniture Hub</h3>
-      <p>E-commerce platform with online ordering, automated invoices, order tracking, SEO and multi-currency support.</p>
-      <p><a href="https://elegant-furniture-hub.vercel.app">Live site →</a></p>
-    </td>
-    <td width="50%">
-      <h3>☕ Brew Haven</h3>
-      <p>Café website with online ordering.</p>
-      <p><a href="https://brew-haven-ten.vercel.app">Live site →</a></p>
-    </td>
-  </tr>
-</table>
+| Area | Tools |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,py,java,cs,kotlin&theme=dark" height="40" alt="TypeScript, JavaScript, Python, Java, C#, Kotlin" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="40" alt="React, Next.js, Tailwind, HTML, CSS" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,dotnet&theme=dark" height="40" alt="Node.js, Express, Spring Boot, Django, .NET" /> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,supabase,firebase,aws,azure,vercel&theme=dark" height="40" alt="MongoDB, PostgreSQL, MySQL, SQLite, Supabase, Firebase, AWS, Azure, Vercel" /> |
+| **Mobile & Desktop** | <img src="https://skillicons.dev/icons?i=androidstudio,flutter,electron&theme=dark" height="40" alt="Android, Flutter, Electron" /> |
+| **Tooling** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,vscode&theme=dark" height="40" alt="Git, GitHub, GitHub Actions, Postman, Figma, VS Code" /> |
+| **AI & Integrations** | ![Gemini](https://img.shields.io/badge/Gemini%20API-0B0B0F?style=flat-square&logo=googlegemini&logoColor=F0C53A) ![Groq](https://img.shields.io/badge/Groq-0B0B0F?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-0B0B0F?style=flat-square&logo=n8n&logoColor=F0C53A) ![Socket.IO](https://img.shields.io/badge/Socket.IO-0B0B0F?style=flat-square&logo=socketdotio&logoColor=F0C53A) ![JWT](https://img.shields.io/badge/JWT-0B0B0F?style=flat-square&logo=jsonwebtokens&logoColor=F0C53A) ![OAuth](https://img.shields.io/badge/OAuth%202.0-0B0B0F?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-0B0B0F?style=flat-square&logo=pandas&logoColor=F0C53A) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Abdurrehman510&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrehman510&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" />
+<img src="/metrics/overview.svg" alt="GitHub overview: activity, community, repositories, contribution calendar and code volume" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abdurrehman510&theme=midnight-purple&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Abdurrehman510&hide_border=true&background=0B0B0F&ring=F0C53A&fire=F0C53A&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F0C53A&sideLabels=C9C9D1&dates=8B8B96&stroke=2A2A33" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="/metrics/languages.svg" alt="Most used and recently used languages" />
+
+</div>
+
+### Achievements
+
+<div align="center">
+
+<img src="/metrics/achievements.svg" alt="GitHub achievements" />
+
+<sub>Analytics are generated daily from live GitHub data by a GitHub Actions workflow in this repository.</sub>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## Hackathons & Challenges
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdurrehman510&theme=onedark&no-frame=true&margin-w=10&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrehman510&theme=react-dark&hide_border=true&area=true" />
-</div>
+| Event | What I built |
+|:--|:--|
+| **Google for Startups: AI Agents Challenge** | AR Collections Agent, an autonomous invoice follow-up agent for Indian MSMEs built on Gemini ADK |
+| **AI for Bharat Hackathon** | SchemeSnap AI, built with React, Django and Groq |
+| **Odoo Hackathon 2025** | Backend automation, AI integration and UI/UX contributions |
 
 ---
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
-- 🤖 AI integration in business software, including Gemini-powered assistants and automation
-- 🔐 Backend security: JWT, OAuth and secure API design
-- 🌐 Growing client work in websites, web apps and business systems
-- 🖥️ Production-grade desktop tools for real businesses
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdurrehman.co.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.abdurrehman.co.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdurrehman-narmawala)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrehmannarmawala510@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdurrehman510)
-
-📍 Ahmedabad, India &nbsp;|&nbsp; 📞 +91 98253 49583
-
-</div>
+- Building AI-integrated business systems with Gemini, Groq and agentic workflows
+- AI engineering work at Nexra Security
+- Helping SMBs in India and the Middle East automate operations and convert more leads
+- Production builds in Next.js 15, TypeScript and .NET 8
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+**Have a business problem worth solving? Let's talk.**
 
-<sub>⚡ Built with purpose by <strong>Abdurrehman Narmawala</strong>. Always shipping, always learning.</sub>
+<a href="https://www.abdurrehman.co.in/">abdurrehman.co.in</a> · <a href="mailto:abdurrehmannarmawala510@gmail.com">abdurrehmannarmawala510@gmail.com</a> · <a href="https://linkedin.com/in/abdurrehman-narmawala">LinkedIn</a> · <a href="https://wa.me/919825349583">+91 98253 49583</a>
+
+<sub>Ahmedabad, India · Working with clients worldwide</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1A0E,100:0B0B0F&height=120&section=footer" alt="" />
 
 </div>
