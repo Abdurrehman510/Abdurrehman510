@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,100:1F1A0E&height=220&section=header&text=Abdurrehman%20Narmawala&fontSize=50&fontColor=F0C53A&fontAlignY=36&desc=Business%20Digital%20Growth%20Consultant%20%C2%B7%20Founder%20%26%20Lead%20Software%20Engineer&descAlignY=57&descSize=17&animation=fadeIn" alt="Abdurrehman Narmawala, Business Digital Growth Consultant" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0F,100:1F1A0E&height=220&section=header&text=Abdurrehman%20Narmawala&fontSize=50&fontColor=F0C53A&fontAlignY=36&desc=Business%20Digital%20Growth%20Consultant%20%C2%B7%20Founder%20and%20Lead%20Software%20Engineer&descAlignY=57&descSize=17&animation=fadeIn" alt="Abdurrehman Narmawala, Business Digital Growth Consultant" />
 
 <a href="https://www.abdurrehman.co.in/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F0C53A&center=true&vCenter=true&width=760&lines=I+build+systems+that+help+businesses+grow.;ERP+%C2%B7+CRM+%C2%B7+CMS+%C2%B7+Automation+%C2%B7+AI+Integration;Full-Stack+%C2%B7+Desktop+%C2%B7+Cloud+%C2%B7+AI+Engineering;Business+outcome+first%2C+technology+second." alt="Typing animation" />
@@ -16,7 +16,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Abdurrehman510&label=Profile%20Views&color=F0C53A&style=for-the-badge&abbreviated=true" alt="Profile views" />
-<img src="https://img.shields.io/badge/Status-Open%20to%20Projects%20%26%20Roles-22C55E?style=for-the-badge&labelColor=0B0B0F" alt="Open to projects and roles" />
 
 </div>
 
@@ -130,12 +129,16 @@ const abdurrehman = {
 
 <div align="center">
 
-**Have a business problem worth solving? Let's talk.**
+### Let's build something that grows your business
 
-<a href="https://www.abdurrehman.co.in/">abdurrehman.co.in</a> · <a href="mailto:abdurrehmannarmawala510@gmail.com">abdurrehmannarmawala510@gmail.com</a> · <a href="https://linkedin.com/in/abdurrehman-narmawala">LinkedIn</a> · <a href="https://wa.me/919825349583">+91 98253 49583</a>
+[Website](https://www.abdurrehman.co.in/) · [LinkedIn](https://linkedin.com/in/abdurrehman-narmawala) · [Email](mailto:abdurrehmannarmawala510@gmail.com) · [WhatsApp](https://wa.me/919825349583)
 
-<sub>Ahmedabad, India · Working with clients worldwide</sub>
+`Business outcome first, technology second.`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1A0E,100:0B0B0F&height=120&section=footer" alt="" />
+<sub>Ahmedabad, India · Working with clients worldwide · +91 98253 49583</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F1A0E,100:0B0B0F&height=140&section=footer" alt="" />
 
 </div>
